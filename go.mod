@@ -1,4 +1,4 @@
-module github.com/dutchcoders/transfer.sh-web
+module github.com/jaschadub/transfer.sh-web
 
 go 1.15
 
